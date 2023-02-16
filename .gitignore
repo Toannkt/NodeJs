@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .vscode
 node_modules/
+=======
+node_modules/
+.vscode
+>>>>>>> 43e0e7c85d94c03bf7352092bb9be3b8e5fe1ef7
